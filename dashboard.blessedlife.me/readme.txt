@@ -1,0 +1,1 @@
+The index file redirects you to the dashboard Sign in page.

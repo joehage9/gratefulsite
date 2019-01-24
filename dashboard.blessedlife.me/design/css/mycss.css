@@ -1,0 +1,9 @@
+@media (max-width: 576px) 
+{
+    .jumbotron 
+    {
+        margin-left:-4rem;
+        margin-right:-4rem;
+    }
+   
+}
