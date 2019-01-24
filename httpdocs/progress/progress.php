@@ -15,7 +15,7 @@
     <script src="../design/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <div classs="container">       
+    <div classs="jumbotron">       
         <div class="row">
             <div class="col-sm-12">   
                 <div class="form-group">
